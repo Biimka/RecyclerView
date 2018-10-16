@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Students list</string>
+    <string name="item">Item %1$d</string>
+    <string name="buttonSave">Save</string>
+    <string name="editTextName">Name</string>
+    <string name="editTextAge">Age</string>
+    <string name="studentList">Student list</string>
+    <string name="studentDetails">Student details</string>
+
+    <plurals name="pluralsAge">
+        <item quantity="one">%1$d year</item>
+        <item quantity="other">%1$d years</item>
+    </plurals>
+</resources>
